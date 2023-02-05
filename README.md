@@ -4,13 +4,13 @@
 
 ```javascript
 const nickname_pepsm = {
-  my_profession: "Full stack developer" | "ICT & Software student",
-  my_character: "shy" | "funny",
+  my_profession: "Full stack developer" | "ICT & Software engineering student",
+  my_character: "open-minded" | "curious" | "humble",
   my_languages: [C#, F#, ELM, Javascript, Typescript],
-  my_tools: [Node, .NET Core],
+  my_tools: [Node, ASP.NET Core, GraphQL],
   my_future: {
-                learning: "Distributed Ledger Technologies, Web3",
-                blogging: "Anything about clean code and the blockchain"
+                learning: "Distributed Ledger Technologies, Web3, CBDC",
+                blogging: "Anything about the clean code and the blockchain"
               }
 }
 ```
