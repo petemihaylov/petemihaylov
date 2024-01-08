@@ -1,11 +1,12 @@
 ## Hi there, I’m Petar! 👋
 
-I am a software developer, living in the Netherlands. As a recent graduate, I find excitement in tackling challenges that push me beyond my comfort zone and existing knowledge. Feel free to connect with me on LinkedIn or drop me an email to start a conversation.
+I am a software developer, living in the Netherlands. As a recent graduate, I find excitement in tackling challenges that push me beyond my comfort zone and existing knowledge.
+Apart from coding, I also maintain a [blog](https://blog.petemihaylov.com/) and a [portfolio](https://petemihaylov.com/). You can find my articles on my website.
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/)  and feel free to drop me a message. 
 
    [!["Linkedin Badge"](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petar-mihaylov/)
    [!["GitHub Badge"](https://img.shields.io/badge/GitHub-1d1f21?style=flat-square&logo=github&logoColor=white)](https://github.com/petemihaylov)
-
-Apart from coding, I also maintain a blog. You can find my articles on my website - [blog](https://blog.petemihaylov.com/) and my [portfolio](https://petemihaylov.com/)
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logoColor=white)
