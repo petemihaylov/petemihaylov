@@ -1,7 +1,10 @@
 ## Hi there, I’m Petar! 👋
 
-As a software developer based in the Netherlands, I thrive on tackling challenges that push me beyond my comfort zone. My passion lies in creating solutions that are both efficient and creative. My inspiration comes from productive individuals who find courage and dedication in their craft, search for truth and excellence.
-As a recent graduate, I motivated to make an impact, excited about every opportunity, and eager to expand my skills.
+As a software developer based in the Netherlands, I thrive on tackling challenges that push me beyond my comfort zone. My passion lies in creating solutions that are both efficient and creative.
+
+
+My inspiration comes from productive individuals who find courage and dedication in their craft, search for truth and excellence. As a recent graduate, I motivated to make an impact, excited about every opportunity, and eager to expand my skills.
+
 Apart from coding, I also maintain a [blog](https://blog.petemihaylov.com/) and a [portfolio](https://petemihaylov.com/). These platforms serve as a space for me to share my insights, experiences, and creative endeavors.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/)  and feel free to drop me a message. 
