@@ -8,9 +8,6 @@ Apart from coding, I also maintain a [blog](https://blog.petemihaylov.com/) and 
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/)  and feel free to drop me a message. 
 
-   [!["Linkedin Badge"](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petar-mihaylov/)
-   [!["GitHub Badge"](https://img.shields.io/badge/GitHub-1d1f21?style=flat-square&logo=github&logoColor=white)](https://github.com/petemihaylov)
-
 ## Technologies & Tools
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
