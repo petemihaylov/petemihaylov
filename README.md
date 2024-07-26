@@ -27,12 +27,11 @@ const about_me = {
   currentFocus: "Exploring functional programming with Elm and F#",
   experience: ["Typescript", "React","C#", "F#", "C++"],
   goal: "Helping make tools and apps better together! 📈 🚀",
+  profession: "Full-stack developer",
   interests: {
     learning: ["Go", "ML","Distributed Ledger Technologies","ML","🦄 Web3", "CBDC"],
     blogging: "🧑‍💻 Writing about .NET Core, DevOps tricks, DDD, Clean code and blockchain",
   },
-  profession: "Full-stack developer",
-  degree: "Bachelor's in ICT & Software Engineering 2023",
 };
 ```
 
