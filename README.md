@@ -1,13 +1,20 @@
+<p align="center">
+<samp>
+<a href="https://petemihaylov.com">me</a> .
+<a href="https://blog.petemihaylov.com/categories/all">blog</a> .
+<a href="https://x.com/petemihaylov">twitter</a> .
+<a href="https://www.linkedin.com/in/petar-mihaylov/">linkedin</a>
+</samp>
+</p>
+
 ## Hi there, I’m Petar! 👋
 
 As a software developer based in the Netherlands, I thrive on tackling challenges that push me beyond my comfort zone. My passion lies in creating solutions that are both efficient and creative.
 
-As a recent graduate, I am motivated to make an impact, excited about every opportunity, and eager to expand my skills. I am inspirated by the productive individuals who find courage and dedication in their craft, search for truth and excellence.
-Apart from coding, I also maintain a [blog](https://blog.petemihaylov.com/categories/all) and a [portfolio](https://petemihaylov.com/). These platforms serve as a space for me to share my insights, experiences, and creative endeavors.
-
+Apart from coding, I also maintain a **blog** and a **portfolio**. These platforms serve as a space for me to share my insights, experiences, and creative endeavors.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/) and feel free to drop me a message.
 
-## Technologies & Tools
+## Technologies
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/ELM-0077B5?style=for-the-badge&logo=elm&logoColor=white)
@@ -24,7 +31,7 @@ const about_me = {
     learning: ["Go", "ML","Distributed Ledger Technologies","ML","🦄 Web3", "CBDC"],
     blogging: "🧑‍💻 Writing about .NET Core, DevOps tricks, DDD, Clean code and blockchain",
   },
-  profession: "Full-stack developer" | "A recent graduate",
+  profession: "Full-stack developer",
   degree: "Bachelor's in ICT & Software Engineering 2023",
 };
 ```
