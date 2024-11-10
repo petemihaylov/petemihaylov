@@ -1,7 +1,7 @@
 <p align="center">
 <samp>
 <a href="https://petemihaylov.com">me</a> .
-<a href="https://blog.petemihaylov.com/categories/all">blog</a> .
+<a href="https://blog.petemihaylov.com">blog</a> .
 <a href="https://x.com/petemihaylov">twitter</a> .
 <a href="https://www.linkedin.com/in/petar-mihaylov/">linkedin</a>
 </samp>
