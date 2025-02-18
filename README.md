@@ -24,12 +24,12 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/) and fee
 
 ```javascript
 const about_me = {
-  currentFocus: "Exploring functional programming with Elm and F#",
+  currentFocus: "Exploring mobile development with MAUI",
   experience: ["Typescript", "React","C#", "F#", "C++"],
-  goal: "Helping make tools and apps better together! 📈 🚀",
+  goal: "Automate everything! 📈 🚀",
   profession: "Full-stack developer",
   interests: {
-    learning: ["Go", "ML","Distributed Ledger Technologies","ML","🦄 Web3", "CBDC"],
+    learning: ["MAUI", "ML","Data Processing","React Native","🦄 Web3", "CBDC"],
     blogging: "🧑‍💻 Writing about .NET Core, DevOps tricks, DDD, Clean code and blockchain",
   },
 };
