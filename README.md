@@ -14,23 +14,15 @@ As a software developer based in the Netherlands, I thrive on tackling challenge
 Apart from coding, I also maintain a **blog** and a **portfolio**. These platforms serve as a space for me to share my insights, experiences, and creative endeavors.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/) and feel free to drop me a message.
 
-## Technologies
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/ELM-0077B5?style=for-the-badge&logo=elm&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-0077B5?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Node.js-2bbc8a?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Docker-2bbc8a?style=for-the-badge&logo=docker&logoColor=white)
-
 ```javascript
 const about_me = {
   currentFocus: "Exploring mobile development with MAUI",
-  experience: ["Typescript", "React","C#", "F#", "C++"],
+  experience: ["Typescript", "React","C#", "C++"],
   goal: "Automate everything! 📈 🚀",
-  profession: "Full-stack developer",
+  profession: "Full Stack Developer",
   interests: {
-    learning: ["MAUI", "ML","Data Processing","React Native","🦄 Web3", "CBDC"],
-    blogging: "🧑‍💻 Writing about .NET Core, DevOps tricks, DDD, Clean code and blockchain",
+    learning: ["ML","Data Processing","React Native"],
+    blogging: "🧑‍💻 Writing about .NET Core, DevOps tricks, DDD, Clean code",
   },
 };
 ```
