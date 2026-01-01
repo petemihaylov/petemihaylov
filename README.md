@@ -1,6 +1,6 @@
 <p align="center">
 <samp>
-<a href="https://portfolio-lwrouzarl-pepsms-projects.vercel.app">me</a> .
+<a href="https://portfolio-pepsms-projects.vercel.app">me</a> .
 <a href="https://devblog-lake-eight.vercel.app">blog</a> .
 <a href="https://x.com/petemihaylov">twitter</a> .
 <a href="https://www.linkedin.com/in/petar-mihaylov/">linkedin</a>
