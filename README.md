@@ -16,29 +16,13 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/) and fee
 
 ```javascript
 const about_me = {
-  currentFocus: "Exploring mobile development with MAUI",
-  experience: ["Typescript", "React","C#", "C++"],
-  goal: "Automate everything! 📈 🚀",
+  experience: ["Typescript", "NestJS","C#", "C++", "Java"],
+  focus: "Crafting technologies that solve real-world challenges and unlock new possibilities. 📈 🚀",
   profession: "Full Stack Developer",
   interests: {
-    learning: ["ML","Data Processing","React Native"],
-    blogging: "🧑‍💻 Writing about .NET Core, DevOps tricks, DDD, Clean code",
+    learning: ["LLM","Cyber Security", "AWS"],
+    blogging: "🧑‍💻 Writing about .NET Core, DDD, Clean Code",
   },
 };
 ```
-
-<!--
-<a href="https://github.com/petemihaylov/petemihaylov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petemihaylov&hide=java,html,tex&title_color=ffffff&text_color=2bbc8a&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-
-<a href="https://github.com/petemihaylov/petemihaylov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=petemihaylov&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=2bbc8a&icon_color=2bbc8a&bg_color=1d1f21" alt="Petar's GitHub Stats" />
-</a>
-
-<a href="https://www.buymeacoffee.com/petemihaylov" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-</a>
--->
-
 
