@@ -1,30 +1,31 @@
 <p align="center">
 <samp>
-<a href="https://portfolio-pepsms-projects.vercel.app">me</a> .
+<a href="http://petemihaylov.xyz/">portfolio</a> .
 <a href="https://devblog-lake-eight.vercel.app">blog</a> .
-<a href="https://sorama.xyz/">noise-measurement-day</a> .
+<a href="https://sorama.xyz/">noise awareness day</a> .
 <a href="https://x.com/petemihaylov">twitter</a> .
 <a href="https://www.linkedin.com/in/petar-mihaylov/">linkedin</a> .
-<a href="https://www.devsurvey.xyz/">feedback</a>
+<a href="https://www.devsurvey.xyz/">survey</a>
 </samp>
 </p>
 
-## Hi there, I’m Petar! 👋
+## Hi, I’m Petar 👋
 
-As a software developer based in the Netherlands, I thrive on tackling challenges that push me beyond my comfort zone. My passion lies in creating solutions that are both efficient and creative.
+**Software engineer based in the Netherlands**, focused on building reliable, scalable systems and turning complex problems into clean, practical solutions. I enjoy working across the stack, with a strong interest in backend architecture, system design, and performance-critical applications.
 
-Apart from coding, I also maintain a **blog** and a **portfolio**. These platforms serve as a space for me to share my insights, experiences, and creative endeavors.
-Let's connect on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/) and feel free to drop me a message.
+Alongside my day-to-day work, I maintain a [technical blog](https://devblog-lake-eight.vercel.app/) and a [portfolio](http://petemihaylov.xyz), where I write about the lessons learned from building production systems.
 
-```javascript
-const about_me = {
-  experience: ["Typescript", "NestJS","C#", "C++", "Java"],
-  focus: "Crafting technologies that solve real-world challenges and unlock new possibilities. 📈 🚀",
-  profession: "Full Stack Developer",
+If you’d like to connect, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/petar-mihaylov/).
+
+```ts
+const aboutMe = {
+  role: "Software Engineer",
+  location: "Netherlands",
+  experience: ["TypeScript", "NestJS", "C#", "C++", "Java", "System Design"],
+  focus: "Designing and building systems with clear boundaries, predictable behavior, and long-term maintainability",
   interests: {
-    learning: ["LLM","Cyber Security", "AWS"],
-    blogging: "🧑‍💻 Writing about .NET Core, DDD, Clean Code",
+    current: ["Distributed systems", "LLMs", "Cloud infrastructure (AWS)"],
+    writing: "Blogging about .NET, DDD, Clean Code, production system design",
   },
 };
 ```
-
